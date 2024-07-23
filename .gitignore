@@ -1,0 +1,15 @@
+*.pyc
+*.out
+*.log
+*.aux
+*.gz
+*.toc
+*checkpoint.ipynb
+.ipynb_checkpoints
+*.bbl
+*.blg
+*.thm
+*.o
+*.so
+__pycache__
+
