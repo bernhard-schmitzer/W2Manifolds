@@ -4,4 +4,4 @@ This repository is the companion respository for the article
 
 It contains the code for the numerical examples contained in the article.
 
-**under construction**
+**example 3 is coming soon**
